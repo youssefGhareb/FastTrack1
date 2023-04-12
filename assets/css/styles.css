@@ -42,6 +42,11 @@ li {
     color: #7c7a7a;
 }
 
+ul > li > a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .section1{
     display: flex;
     gap: 20px;
